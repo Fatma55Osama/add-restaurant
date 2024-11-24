@@ -80,7 +80,7 @@ body {
  
 }
 .logoicon{
-  display: none !important;
+  /* display: flex !important; */
 }
 @media screen and (max-width: 767px) {
   #all {
